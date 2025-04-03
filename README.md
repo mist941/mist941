@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 I'm Ivan</h1>
 
 <p align="center">
-  👨‍💻 Frontend Developer | 🌐 React | 🛠️ DevOps Learner | 💡 Curious mind
+
 </p>
 
 <!--
