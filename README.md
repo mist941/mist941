@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hello! 👋 I'm Ivan</h1>
 
 <p align="center">
   👨‍💻 Frontend Developer | 🌐 React | 🛠️ DevOps Learner | 💡 Curious mind
@@ -16,6 +16,7 @@
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mist941&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mist941&layout=compact&theme=tokyonight)
 
 ---
