@@ -48,7 +48,7 @@
   ## 📊 GitHub Stats
   
   <img src="https://github-readme-stats.vercel.app/api?username=mist941&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mist941&layout=compact&theme=radical" alt="Top Languages" />
 
   ## 📫 Contact Me
@@ -56,11 +56,8 @@
   <p>
     Feel free to reach out if you have any questions or would like to collaborate on a project!
   </p>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://t.me/yourusername">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://www.linkedin.com/in/ivan-statkevich-a9868819b/">
+    <img src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
 
   <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" alt="Footer Banner" width="100%"/>
