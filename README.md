@@ -5,8 +5,8 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,react,next,redux,nodejs,nestjs,terraform,aws,docker,ansible,python" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,nginx,linux,bash,firebase,graphql" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,react,next,redux,nodejs,nestjs,terraform,aws,docker" />
+    <img src="https://skillicons.dev/icons?i=ansible,python,mysql,postgres,git,nginx,linux,bash,firebase,graphql" />
 </div>
 
 <a href="#"><img align="left" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
