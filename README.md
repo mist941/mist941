@@ -49,8 +49,6 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=mist941&show_icons=true&theme=radical" alt="GitHub Stats" /> 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mist941&layout=compact&theme=radical" alt="Top Languages" />
-
   ## 📫 Contact Me
   
   <p>
