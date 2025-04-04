@@ -54,9 +54,6 @@
   <p>
     Feel free to reach out if you have any questions or would like to collaborate on a project!
   </p>
-  <a href="https://www.linkedin.com/in/ivan-statkevich-a9868819b/">
-    <img src="https://img.shields.io/badge/Linkedin-2CA5E0?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a>
 
   <img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" alt="Footer Banner" width="100%"/>
 </div>
