@@ -47,13 +47,7 @@
 
   ## 📊 GitHub Stats
   
-<div align="center">
-    <img align="center" src="https://raw.githubusercontent.com/mist941/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
-    <img align="center" src="https://raw.githubusercontent.com/mist941/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
-    <br>
-    <img align="center" src="https://raw.githubusercontent.com/mist941/github-stats/master/generated/overview.svg#gh-light-mode-only" />
-    <img align="center" src="https://raw.githubusercontent.com/mist941/github-stats/master/generated/languages.svg#gh-light-mode-only" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mist941&show_icons=true&theme=radical" alt="GitHub Stats" /> 
 
   ## 📫 Contact Me
   
